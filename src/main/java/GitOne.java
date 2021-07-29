@@ -4,5 +4,7 @@ public class GitOne {
         System.out.println("GitOne Hallo!44 is comited in branch 04");
         System.out.println("plus one more ");
         System.out.println("ABC training");
+        System.out.println("DEF training");
+
     }
 }
